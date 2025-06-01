@@ -1,2 +1,1 @@
-# zama-mindset2
-zama mindset2
+# Project Helper CLI
